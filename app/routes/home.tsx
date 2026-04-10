@@ -73,10 +73,10 @@ export default function Home() {
           <section className="hero">
               
 
-              <h1>Build beautiful spaces at the speed of thought with Neuralstack</h1>
+              <h1>Design smarter interiors with AI-driven speed and clarity</h1>
 
               <p className="subtitle">
-                  Neuralstack is an AI-first design environment that helps you visualize, render, and ship architectural projects faster  than ever.
+                  Neuralstack turns inspiration into polished space concepts instantly, helping architects and creatives move from idea to visual reality without friction.
               </p>
 
               <div className="actions">
