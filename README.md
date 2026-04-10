@@ -2,9 +2,6 @@
 
 # 🧠 Neuralstack — AI Architectural Visualization SaaS
 
-
-<img src="public/readme/readme-hero.webp" alt="Neuralstack Banner" />
-
 <br/>
 
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
